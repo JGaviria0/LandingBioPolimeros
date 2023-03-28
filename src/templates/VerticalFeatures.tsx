@@ -32,7 +32,7 @@ const VerticalFeatures = () => (
         title="Responsabilidad."
         description="Profesionales y entidades públicas cometieron un delito que afectó la vida de muchos y aún no han asumido la culpa. Cualquiera que atente contra el bienestar de una persona debe hacerse cargo de sus acciones."
         title2="Reparación."
-        description2="Ruina profesional y económica, problemas de salud e incluso la muerte: un precio muy alto que pagaron personas inocentes. Deben ser compensados y buscaremos que reconozcan el daño que les fue causado."
+        description2="Ruina profesional y económica, problemas de salud e incluso la muerte: un precio muy alto que pagaron personas inocentes. Deben ser compensados y buscaremos que se reconozca el daño que les fue causado."
       />
     </Section>
   </>

@@ -61,13 +61,13 @@ const VerticalFeatureRow2 = (props: IVerticalFeatureRowProps2) => {
 
   return (
     <div className={verticalFeatureClass2}>
-      <div className="w-full sm:w-1/2 text-justify sm:px-6">
+      <div className="w-full sm:w-1/2 text-justify p-6 sm:px-6">
         <h3 className="text-3xl text-gray-900 font-semibold text-center">
           {props.title}
         </h3>
         <div className="mt-6 text-xl leading-9">{props.description}</div>
       </div>
-      <div className="w-full sm:w-1/2 p-6 text-justify">
+      <div className="w-full sm:w-1/2 p-6 text-justify sm:px-6">
         <h3 className="text-3xl text-gray-900 text-center font-semibold">
           {props.title2}
         </h3>
