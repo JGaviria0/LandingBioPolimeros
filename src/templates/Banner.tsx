@@ -10,7 +10,7 @@ const Banner = () => (
       title="Si tienes alguna duda estaremos felices de resolverla."
       subtitle="Estamos para ayudarte."
       button={
-        <Link href="https://creativedesignsguru.com/category/nextjs/">
+        <Link href="https://wa.me/573105293217?text=Hola,%20quiero%20saber%20más%20información">
           <a>
             <Button>Contáctanos.</Button>
           </a>
