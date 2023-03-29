@@ -12,7 +12,7 @@ const Banner = () => (
       button={
         <Link href="https://wa.me/573105293217?text=Hola,%20quiero%20saber%20más%20información">
           <a>
-            <Button>Contáctanos.</Button>
+            <Button>WhatsApp</Button>
           </a>
         </Link>
       }
