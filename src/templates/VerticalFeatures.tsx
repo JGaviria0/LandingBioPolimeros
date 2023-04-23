@@ -13,13 +13,13 @@ const VerticalFeatures = () => (
       <VerticalFeatureRow
         title="Asesoramiento jurídico."
         description="Evaluamos tu caso para determinar si eres sujeto de indeminización."
-        image="/assets/images/legal.jpg"
+        image="/assets/images/legal.png"
         imageAlt="Abogados"
       />
       <VerticalFeatureRow
         title="Cirugía plástica, reconstructiva y estética."
         description="Valoración del caso. Procedimientos quirúrgicos de extracción de biopolímeros."
-        image="/assets/images/medico.jpg"
+        image="/assets/images/medico.png"
         imageAlt="Médicos"
         reverse
       />
