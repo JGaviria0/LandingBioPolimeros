@@ -13,26 +13,26 @@ const VerticalFeatures = () => (
       <VerticalFeatureRow
         title="Asesoramiento jurídico."
         description="Evaluamos tu caso para determinar si eres sujeto de indeminización."
-        image="/assets/images/legal.png"
-        imageAlt="Médicos"
+        image="/assets/images/legal.jpg"
+        imageAlt="Abogados"
       />
       <VerticalFeatureRow
-        title="Cirugía estética."
-        description="Valoración, procedimientos quirúrgicos de extracción y seguimiento."
-        image="/assets/images/medico.png"
-        imageAlt="Abogados"
+        title="Cirugía plástica, reconstructiva y estética."
+        description="Valoración del caso. Procedimientos quirúrgicos de extracción de biopolímeros."
+        image="/assets/images/medico.jpg"
+        imageAlt="Médicos"
         reverse
       />
     </Section>
     <Section
       title="Acción de grupo."
-      description="Creemos que se ha originado perjurio o daño individual a miles de personas por la misma causa."
+      description="Con la aplicación de biopolímeros se ha generado un perjuicio o daño a miles de pacientes en Colombia y alrededor del mundo, lo cual se ha causado sufrimiento físico y psicológico en ellos, y han tenido que inucrrir en cuantiosos gastos con el fin de recuperar su salud, sin que hayan sido indemnizados por este hecho."
     >
       <VerticalFeatureRow2
         title="Responsabilidad."
-        description="Profesionales y entidades públicas cometieron un delito que afectó la vida de muchos y aún no han asumido la culpa. Cualquiera que atente contra el bienestar de una persona debe hacerse cargo de sus acciones."
+        description="En Colombia quien cause un daño legalmente está obligado a reparar y resarcirlo, por lo tanto las víctimas de los biopolímeros deben ser indemnizados."
         title2="Reparación."
-        description2="Ruina profesional y económica, problemas de salud e incluso la muerte: un precio muy alto que pagaron personas inocentes. Deben ser compensados y buscaremos que se reconozca el daño que les fue causado."
+        description2="Reparación pecuniaria como consecuencia de los problemas de salud ocasionados con la aplicación de biopolímeros."
       />
     </Section>
   </>
