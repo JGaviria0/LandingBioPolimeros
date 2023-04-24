@@ -27,7 +27,7 @@ const Hero = () => (
             <span className="text-red-900">Víctimas de Biopolímeros</span>
           </>
         }
-        description="Te ofrecemos asistencia si fuiste víctima por aplicación de hialucorp o metacorp."
+        description="Te ofrecemos asistencia si fuiste víctima por aplicación de hialucorp, metacorp u otros biopolímeros."
         button={
           <Link href="https://www.ayudabiopolimeros.com.co/auth">
             <a>
